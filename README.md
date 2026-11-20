@@ -18,7 +18,7 @@
 
 ## Overview
 
-**AlgoViz** (`Simp_algo_vis`) is a self-contained, zero-dependency web application for visually exploring how classic sorting algorithms operate step-by-step on randomly generated bar charts.
+**AlgoViz** is a self-contained, zero-dependency web application for visually exploring how classic sorting algorithms operate step-by-step on randomly generated bar charts.
 
 Built entirely with native DOM manipulation, CSS Flexbox, and `async`/`await` animation pacing, it opens directly in any modern browser without a build tool, bundler, or backend server.
 
