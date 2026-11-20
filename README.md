@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript ES6+" />
     <img src="https://img.shields.io/badge/Dependencies-None%20(Vanilla)-2EA44F" alt="Zero Dependencies" />
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" /></a>
   </p>
 </div>
 
@@ -91,6 +91,7 @@ Simp_algo_vis/
 ├── index.html   # Page layout, algorithm selector, speed slider, and playback buttons
 ├── script.js    # Array generation, DOM rendering, pause/reset state, and sorting algorithms
 ├── style.css    # Dark-mode layout and bar state color styling
+├── LICENSE      # MIT License
 └── README.md    # Project documentation
 ```
 
@@ -123,4 +124,4 @@ Then navigate to `http://localhost:8000`, pick **Bubble Sort** or **Selection So
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
